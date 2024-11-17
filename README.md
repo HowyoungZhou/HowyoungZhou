@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Thank you for reaching out! This profile has been moved to [haoyang-graphics](https://github.com/haoyang-graphics).
+
 <!--
 **HowyoungZhou/HowyoungZhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
