@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🚧 301 Moved Permanently
 
 Thank you for reaching out! This profile has been moved to [haoyang-graphics](https://github.com/haoyang-graphics).
 
